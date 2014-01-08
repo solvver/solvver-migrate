@@ -1,5 +1,5 @@
 
-## Mongoose migrate
+## Mongoose migrate fork
 
 Fork of [visionmedia/node-migrate](https://github.com/visionmedia/node-migrate). Keeps track of the migrations in a mongodb collection instead of `.migrate` file.
 
